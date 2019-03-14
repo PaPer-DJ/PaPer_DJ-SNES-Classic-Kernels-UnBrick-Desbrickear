@@ -16,8 +16,8 @@ Well, depending on which system you have, you'll have to find one of these clean
 * kernel-dp-snesusa-release-v2.0.14-0-gd8b65c6.img
 * kernel-dp-snesusa-release-v2.0.7-0-geb2b275.img
 
-** Famicom Classic
-*kernel-dp-hvc-release-v1.0.5-0-g2f04d11.img
+** Famicom Classic 
+* kernel-dp-hvc-release-v1.0.5-0-g2f04d11.img
 
 ** NES Classic (2016 Release)
 * kernel-dp-nes-release-v1.0.2-0-g99e37e1.img
