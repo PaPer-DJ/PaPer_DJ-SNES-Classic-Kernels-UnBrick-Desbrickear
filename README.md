@@ -1,5 +1,6 @@
 # PaPer_DJ-SNES-Classic-Kernels-UnBrick-Desbrickear-Restaurar
 [ UnBrick INFO ] Original Kernel Releases for All SNES and NES Classic Consoles. 
+
 [ INFO para UnBrick ] Todo lo necesario para Restaurar la consola como vino de fábrica.
 
 
