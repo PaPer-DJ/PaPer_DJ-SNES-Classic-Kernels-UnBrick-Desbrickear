@@ -39,3 +39,12 @@ Enter FEL mode once again and select Kernel > Uninstall, this will prompt you fo
 hakchi should be removed from your system and it will start normally.
 
 At this point, you can re-install hakchi using Hakchi2 CE and everything will work normally.
+
+RESOURCES ABOUT:
+
+[PaPer_DJ] 
+https://github.com/PaPer-DJ
+
+https://github.com/MentalBlank/SNES-Mini-Kernels
+https://gist.github.com/DanTheMan827/4a288890ec913ba7006378a6feb738a4
+https://wiki.hakchi.net/Boot_Image
