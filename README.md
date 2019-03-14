@@ -1,4 +1,4 @@
-# PaPer_DJ-SNES-Classic-Kernels-UnBrick-Desbrickear
+# PaPer_DJ-SNES-Classic-Kernels-UnBrick-Desbrickear-Restaurar
 [ UnBrick INFO ] Original Kernel Releases for All SNES and NES Classic Consoles.
 
 
