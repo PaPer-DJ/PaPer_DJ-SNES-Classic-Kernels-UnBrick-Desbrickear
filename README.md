@@ -43,8 +43,8 @@ At this point, you can re-install hakchi using Hakchi2 CE and everything will wo
 RESOURCES ABOUT:
 
 [PaPer_DJ] 
-https://github.com/PaPer-DJ
+* https://github.com/PaPer-DJ
 
-https://github.com/MentalBlank/SNES-Mini-Kernels
-https://gist.github.com/DanTheMan827/4a288890ec913ba7006378a6feb738a4
-https://wiki.hakchi.net/Boot_Image
+* https://github.com/MentalBlank/SNES-Mini-Kernels
+* https://gist.github.com/DanTheMan827/4a288890ec913ba7006378a6feb738a4
+* https://wiki.hakchi.net/Boot_Image
