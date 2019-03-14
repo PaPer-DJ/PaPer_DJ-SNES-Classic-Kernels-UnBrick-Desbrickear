@@ -6,18 +6,18 @@ So, you used Hakchi2.30, fucked your console, and now it just shuts down right a
 
 Well, depending on which system you have, you'll have to find one of these clean kernel backups from your favorite search engine (hint: search for the filename in quotes)
 
-* Super Nintendo / Super Famicom Classic
-kernel-dp-shvc-release-v2.0.12-0-gbff4fb3.img
-kernel-dp-shvc-release-v2.0.14-0-gd8b65c6.img
-kernel-dp-sneseur-release-v2.0.13-0-g9dca6c5.img
-kernel-dp-sneseur-release-v2.0.14-0-gd8b65c6.img
-kernel-dp-sneseur-release-v2.0.7-0-geb2b275.img
-kernel-dp-snesusa-release-v2.0.13-0-g9dca6c5.img
-kernel-dp-snesusa-release-v2.0.14-0-gd8b65c6.img
-kernel-dp-snesusa-release-v2.0.7-0-geb2b275.img
+** Super Nintendo / Super Famicom Classic
+* kernel-dp-shvc-release-v2.0.12-0-gbff4fb3.img
+* kernel-dp-shvc-release-v2.0.14-0-gd8b65c6.img
+* kernel-dp-sneseur-release-v2.0.13-0-g9dca6c5.img
+* kernel-dp-sneseur-release-v2.0.14-0-gd8b65c6.img
+* kernel-dp-sneseur-release-v2.0.7-0-geb2b275.img
+* kernel-dp-snesusa-release-v2.0.13-0-g9dca6c5.img
+* kernel-dp-snesusa-release-v2.0.14-0-gd8b65c6.img
+* kernel-dp-snesusa-release-v2.0.7-0-geb2b275.img
 
-* Famicom Classic
-kernel-dp-hvc-release-v1.0.5-0-g2f04d11.img
+** Famicom Classic
+*kernel-dp-hvc-release-v1.0.5-0-g2f04d11.img
 
 * NES Classic (2016 Release)
 kernel-dp-nes-release-v1.0.2-0-g99e37e1.img
