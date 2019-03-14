@@ -19,15 +19,15 @@ Well, depending on which system you have, you'll have to find one of these clean
 ** Famicom Classic
 *kernel-dp-hvc-release-v1.0.5-0-g2f04d11.img
 
-* NES Classic (2016 Release)
-kernel-dp-nes-release-v1.0.2-0-g99e37e1.img
-kernel-dp-nes-release-v1.0.3-0-gc4c703b.img
+** NES Classic (2016 Release)
+* kernel-dp-nes-release-v1.0.2-0-g99e37e1.img
+* kernel-dp-nes-release-v1.0.3-0-gc4c703b.img
 
-* NES Classic (2018 Release)
-kernel-dp-nes-release-v1.0.7-0-g4ea4041.img
+** NES Classic (2018 Release)
+* kernel-dp-nes-release-v1.0.7-0-g4ea4041.img
 
-* Shonen Jump Special Edition Famicom Classic
-kernel-dp-hvcj-release-v3.0.1-0-gad315e1.img
+** Shonen Jump Special Edition Famicom Classic
+* kernel-dp-hvcj-release-v3.0.1-0-gad315e1.img
 
 
 Then after you have the proper one for your system, you're going to need to download the latest release of Hakchi2 CE from http://github.com/teamshinkansen/hakchi2/releases and extract it to a nice and clean folder.
