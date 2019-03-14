@@ -3,6 +3,7 @@
 
 [ INFO para UnBrick ] Todo lo necesario para Restaurar la consola como vino de fábrica.
 
+---------------------------------------------------------------
 
 So, you used Hakchi2.30, fucked your console, and now it just shuts down right away... and of course you want to fix it, right?
 
